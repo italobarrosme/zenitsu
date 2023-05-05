@@ -14,7 +14,7 @@ O Zod foi projetado para ser o mais amigável possível ao desenvolvedor. O obje
 
 ## Objetivo
 
-Neste projeto, foi desenvolvido um exemplo básico de requisição para uma API simulada, onde os dados são validados por meio do schema do zod, utilizando um hook customizado no React chamado useUsers. O código verifica se os dados estão de acordo com o esquema definido pelo UserSchema da biblioteca zod e armazena a lista de usuários no estado do componente. Em caso de erro, é gerado um objeto de exceção.
+Neste projeto, foi desenvolvido um exemplo básico de requisição para uma API simulada, onde os dados são validados por meio do schema do zod, utilizando um hook customizado no React chamado [useUsers](https://github.com/italobarrosme/zenitsu/tree/main/src/hooks/useUsers). O código verifica se os dados estão de acordo com o esquema definido pelo UserSchema da biblioteca zod e armazena a lista de usuários no estado do componente. Em caso de erro, é gerado um objeto de exceção.
 
 ## O que foi usado
 
