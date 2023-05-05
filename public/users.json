@@ -1,0 +1,79 @@
+[
+  {
+  "name": "Goku Son",
+  "id": "goku",
+  "profession": "Saiyan",
+  "age": 35,
+  "anime": "Dragon Ball"
+  },
+  {
+  "name": "Monkey D. Luffy",
+  "id": "luffy",
+  "profession": "Pirate",
+  "age": 19,
+  "anime": "One Piece"
+  },
+  {
+  "name": "Edward Elric",
+  "id": "edward",
+  "profession": "Alchemist",
+  "age": 18,
+  "anime": "Fullmetal Alchemist"
+  },
+  {
+  "name": "Vegeta Prince",
+  "id": "vegeta",
+  "profession": "Saiyan",
+  "age": 45,
+  "anime": "Dragon Ball"
+  },
+  {
+  "name": "Sakura Kinomoto",
+  "id": "sakura",
+  "profession": "Cardcaptor",
+  "age": 10,
+  "anime": "Cardcaptor Sakura"
+  },
+  {
+  "name": "Saitama",
+  "id": "saitama",
+  "profession": "Hero",
+  "age": 25,
+  "anime": "One Punch Man"
+  },
+  {
+  "name": "Kamado Tanjirou",
+  "id": "tanjirou",
+  "profession": "Demon Slayer",
+  "age": 15,
+  "anime": "Kimetsu no Yaiba"
+  },
+  {
+  "name": "Agatsuma Zenitsu",
+  "id": "zenitsu",
+  "profession": "Demon Slayer",
+  "age": 17,
+  "anime": "Kimetsu no Yaiba"
+  },
+  {
+  "name": "Hashibira Inosuke",
+  "id": "inosuke",
+  "profession": "Demon Slayer",
+  "age": 16,
+  "anime": "Kimetsu no Yaiba"
+  },
+  {
+  "name": "Kamado Nezuko",
+  "id": "nezuko",
+  "profession": "Demon Slayer",
+  "age": 14,
+  "anime": "Kimetsu no Yaiba"
+  },
+  {
+  "name": "Kochou Shinobu",
+  "id": "shinobu",
+  "profession": "Hashire",
+  "age": 21,
+  "anime": "Kimetsu no Yaiba"
+  }
+  ]
