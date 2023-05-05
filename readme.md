@@ -1,4 +1,4 @@
-## O que é e como usar o Zod com TypeScript
+# O que é e como usar o Zod com TypeScript!
 
 O Zod é uma biblioteca de validação de esquema para dados em TypeScript-first. É muito útil para garantir a integridade dos dados, especialmente quando se trabalha com APIs ou outras fontes de dados externas.
 
