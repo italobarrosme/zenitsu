@@ -21,4 +21,4 @@ Neste projeto, foi desenvolvido um exemplo básico de requisição para uma API 
 - Reactjs
 - Vite
 - Tailwindcss
-- zod
+- zod: [github do zod](https://github.com/colinhacks/zod)
